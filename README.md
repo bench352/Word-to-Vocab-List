@@ -1,5 +1,7 @@
 # Words To Vocabulary List
 
+![Words To Vocabulary List](README.assets/Words%20To%20Vocabulary%20List.png)
+
 ***Words To Vocabulary List*** is a program that automatically generates a vocabulary list with *English meaning, Chinese translation, synonyms, and antonyms (if available)* from a list of words.
 
 It supports two types of output:
